@@ -10,25 +10,26 @@ This repository contains a comprehensive coursework project for an IB Data Scien
 - Perform model selection to balance fit quality against overfitting risk.  
 
 ## 📂 Repository Structure
-├── 01 Introduction to Time series and Linear regression.ipynb
-├── 02 Time series analysis –– capturing periodic components.ipynb
-├── 03 Model selection [Optional].ipynb
-├── README.md
-├── Data/
-│ ├── CO2_data_full.npy
-│ ├── CO2_training_data.npy
-│ ├── CO2_test_data.npy
-│ └── CO2_levels.png
-└── Exercises/
-├── 01 Exercise Notebook 1.ipynb
-├── 01 Exercise Notebook 1.pdf
-├── 02 Exercise Notebook 2.ipynb
-├── 02 Exercise Notebook 2.pdf
-├── 03 Exercise Notebook 3.ipynb
-├── 03 Exercise Notebook 3.pdf
-├── Ex1_polyreg_data.npy
-├── hospital_cases_2023-02-16.csv
-└── tfl_ridership.csv
+
+- **01 Introduction to Time Series and Linear Regression.ipynb**  
+- **02 Time Series Analysis –– Capturing Periodic Components.ipynb**  
+- **03 Model Selection [Optional].ipynb**  
+- **README.md**  
+- **Data/**
+  - `CO2_data_full.npy`  
+  - `CO2_training_data.npy`  
+  - `CO2_test_data.npy`  
+  - `CO2_levels.png`  
+- **Exercises/**
+  - `01 Exercise Notebook 1.ipynb`  
+  - `01 Exercise Notebook 1.pdf`  
+  - `02 Exercise Notebook 2.ipynb`  
+  - `02 Exercise Notebook 2.pdf`  
+  - `03 Exercise Notebook 3.ipynb`  
+  - `03 Exercise Notebook 3.pdf`  
+  - `Ex1_polyreg_data.npy`  
+  - `hospital_cases_2023-02-16.csv`  
+  - `tfl_ridership.csv`  
 
 ## 🗃️ Data Description
 
